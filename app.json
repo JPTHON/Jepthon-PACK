@@ -16,7 +16,7 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "اب ايدي",
+      "description": "ضع هنا ايبي ايدي",
       "value": ""
     },
     "API_HASH": {
@@ -32,7 +32,7 @@
       "value": "ANYTHING"
     },
     "TG_BOT_USERNAME": {
-      "description": "معرف البوت",
+      "description": "يوزر البوت الخاص بك",
       "value": ""
     },
     "TG_BOT_TOKEN": {
