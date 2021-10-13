@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "
-          Zedthon
+          jepthon
 
         𓍹 Visit @jepthon for help 𓍻
 "
